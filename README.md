@@ -2,7 +2,7 @@
 This project contains my project work on a grocery store management system done on PHP and MYSQL using XAMPP AND PHPMYADMIN
 
 
-STEPS TO RUN:-
+STEPS TO RUN:
 1. INSTALL XAMPP AND RUN APACHE AND SQL.
 2. COPY THE GROCERY FOLDER TO htdocs in xampp FOLDER
 3. LOAD THE grocery.sql table TO PHPMYADMIN USING IMPORT IN PHPMYADMIN IN LOCAL SERVER.
